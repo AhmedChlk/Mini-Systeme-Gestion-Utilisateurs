@@ -15,7 +15,7 @@ Ce projet est un exercice complet et approfondi en PHP 8 visant à implémenter 
 - [Licence](#licence)
 - [Auteur](#auteur)
 
-## Description
+## À propos du projet
 
 Ce projet implémente un système de gestion d'utilisateurs comportant :
 

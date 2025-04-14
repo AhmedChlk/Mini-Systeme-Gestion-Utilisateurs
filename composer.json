@@ -1,0 +1,17 @@
+{
+    "name": "ahmed/mini-systeme-gestion-utilisateurs",
+    "description": "Petit projet pour apprendre le PHP",
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MonProjet\\": "classes/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    }
+}

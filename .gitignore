@@ -1,0 +1,19 @@
+# Ignorer le dossier des dépendances
+/vendor/
+
+# Ignorer le snapshot généré
+code.txt
+
+# Ignorer les fichiers de configuration des IDE
+/.idea/
+/.vscode/
+
+composer.lock
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs et caches
+*.log
+/cache/
